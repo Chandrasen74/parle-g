@@ -10,6 +10,8 @@
 - **Primary language:** HTML
 - **Languages detected:** HTML
 - **Stack/tech:** HTML
+- **Entry point:** `index.html`
+- **Key files:** `index.html`
 
 ## Language & stack details
 - Languages: HTML
@@ -33,7 +35,9 @@ python -m http.server 8000
 ```
 
 ## Repository structure (top-level/sample)
+- `.nojekyll`
 - `README.md`
+- `index.html`
 - `screenshot.png`
 - `simple_lost_found_101_site (1).html`
 
